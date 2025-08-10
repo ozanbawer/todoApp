@@ -16,3 +16,4 @@ Uygulama, kullanıcıların görev ekleyip silmelerine, tamamlanan görevleri i�
 - JavaScript (ES6+)
 - LocalStorage API
 
+![todoApp](https://github.com/user-attachments/assets/ba8f5762-02e3-472d-b488-77ad0e1854bd)
